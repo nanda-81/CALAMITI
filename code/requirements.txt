@@ -1,0 +1,67 @@
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi @ file:///tmp/build/80754af9/cffi_1600699146221/work
+chardet==3.0.4
+ci-info==0.2.0
+click==7.1.2
+conda==4.9.1
+conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1603018141399/work
+cryptography @ file:///tmp/build/80754af9/cryptography_1601046815590/work
+cycler==0.10.0
+decorator==4.4.2
+etelemetry==0.2.2
+filelock==3.0.12
+future==0.18.2
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+imageio==2.9.0
+improc3d==0.5.2
+isodate==0.6.0
+joblib==0.16.0
+kiwisolver==1.2.0
+lxml==4.6.1
+matplotlib==3.3.1
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+monai==0.3.0
+multithreading==0.1.8
+networkx==2.5
+nibabel==3.1.1
+nipype==1.5.1
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603570489231/work
+olefile==0.46
+opencv-python==4.4.0.46
+packaging==20.4
+pandas==1.1.1
+Pillow @ file:///tmp/build/80754af9/pillow_1603822255246/work
+prov==1.5.3
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydicom==2.0.0
+pydot==1.4.1
+pydotplus==2.0.2
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+PySocks==1.7.1
+python-dateutil==2.8.1
+pytz==2020.1
+PyWavelets==1.1.1
+rdflib==5.0.0
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+ruamel-yaml==0.15.87
+scikit-image==0.17.2
+scikit-learn==0.23.2
+scipy==1.5.2
+seaborn==0.11.1
+simplejson==3.17.2
+six==1.15.0
+sklearn==0.0
+threaded==4.1.0
+threadpoolctl==2.1.0
+tifffile==2020.10.1
+torch==1.6.0+cu92
+torchvision==0.7.0+cu92
+tqdm @ file:///tmp/build/80754af9/tqdm_1602185206534/work
+traits==6.1.1
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+xlrd==1.2.0
