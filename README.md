@@ -76,10 +76,10 @@ CALAMITI consistently delivers improved MRI harmonization quality:
 | PSNR (Peak Signal to Noise Ratio) ↑ | 28.4 dB     | 32.7 dB      |  
 | SSIM (Structural Similarity Index) ↑ | 0.74       | 0.89        |  
 
-- Visual results:  
+  - Visual results:
+  [<img src="assets/Overall_result.png" width="400"/>](assets/Overall_result.png)
   - Input slices vs. fused harmonized images show sharper anatomical details and reduced scanner artifacts.
     [<img src="assets/vs.png" width="400"/>](assets/vs.png)
-
   - CycleGAN inclusion further refines style consistency and reduces domain mismatch.  
 
  ## 🖼️ Image Comparison Gallery  
@@ -89,10 +89,6 @@ CALAMITI consistently delivers improved MRI harmonization quality:
 | **1. Fine-tuning** | <img src="assets/FineTuning.png" width="300"/> |
 | **2. CycleGAN**    | <img src="assets/CycleGAN.png" width="300"/> |
 | **3. Super Resolution** | <img src="assets/super_res.png" width="300"/> |
-
-
- [<img src="assets/Overall_result.png" width="400"/>](assets/Overall_result.png)
- 
 
 
  📑 For more detailed visualizations and results, check the [📄 View Full Results PDF](assets/Image Harmonization using Deep Learning Models All images.pdf)
