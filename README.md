@@ -81,6 +81,7 @@ CALAMITI consistently delivers improved MRI harmonization quality:
     [<img src="assets/Overall_result.png" width="400"/>](assets/Overall_result.png)
   
   - Input slices vs. fused harmonized images show sharper anatomical details and reduced scanner artifacts.
+    
     [<img src="assets/vs.png" width="400"/>](assets/vs.png)
   - CycleGAN inclusion further refines style consistency and reduces domain mismatch.  
 
