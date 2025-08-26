@@ -86,13 +86,13 @@ CALAMITI consistently delivers improved MRI harmonization quality:
 
 | Method         | Output Image |
 |----------------|--------------|
-| **1. Fine-tuning** | ![Fine-tuning Output](assets/FineTuning.png) |
-| **2. CycleGAN**    | ![CycleGAN Output](assets/CycleGAN.png) |
-| **3. Super Resolution** | ![Super Resolution Output](assets/super_res.png) |
+| **1. Fine-tuning** | <img src="assets/FineTuning.png" width="300"/> |
+| **2. CycleGAN**    | <img src="assets/CycleGAN.png" width="300"/> |
+| **3. Super Resolution** | <img src="assets/super_res.png" width="300"/> |
+
 
  [<img src="assets/Overall_result.png" width="400"/>](assets/Overall_result.png)
  
-[<img src="assets/confusion_cmatrix.png" width="400"/>](assets/confusion_matrix.png)
 
 
  📑 For more detailed visualizations and results, check the [📄 View Full Results PDF](assets/Image Harmonization using Deep Learning Models All images.pdf)
