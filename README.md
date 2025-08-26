@@ -95,7 +95,7 @@ CALAMITI consistently delivers improved MRI harmonization quality:
 [<img src="assets/confusion_cmatrix.png" width="400"/>](assets/confusion_matrix.png)
 
 
- 📑 For more detailed visualizations and results, check the [📄 View Full Results PDF](assets/results_full.pdf)
+ 📑 For more detailed visualizations and results, check the [📄 View Full Results PDF](assets/Image Harmonization using Deep Learning Models All images.pdf)
 
 
 ---
