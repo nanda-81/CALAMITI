@@ -1,0 +1,21 @@
+# Core libraries
+torch>=1.12
+torchvision>=0.13
+numpy>=1.23
+scipy>=1.9
+scikit-image>=0.19
+pillow>=9.2
+matplotlib>=3.5
+tqdm>=4.64
+pyyaml>=6.0
+
+# Medical imaging
+nibabel>=5.0.0
+
+# Jupyter / notebooks
+jupyter
+ipykernel
+
+# Optional (GANs + evaluation)
+pytorch-lightning>=1.7
+tensorboard
