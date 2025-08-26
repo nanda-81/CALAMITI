@@ -14,6 +14,9 @@ CALAMITI (Cross-modality Advanced Learning Approach for Medical Image Translatio
 
 By leveraging fusion networks, autoencoders, and adversarial style transfer (CycleGAN), this framework enhances image quality and structural consistency, enabling reliable downstream clinical and AI analyses.  
 
+![Architecture Diagram](assets/flow.png)
+
+
 ---
 
 ## 🚀 Project Highlights  
@@ -74,16 +77,26 @@ CALAMITI consistently delivers improved MRI harmonization quality:
 | SSIM (Structural Similarity Index) ↑ | 0.74       | 0.89        |  
 
 - Visual results:  
-  - Input slices vs. fused harmonized images show sharper anatomical details and reduced scanner artifacts.  
+  - Input slices vs. fused harmonized images show sharper anatomical details and reduced scanner artifacts.
+    [<img src="assets/vs.png" width="400"/>](assets/vs.png)
+
   - CycleGAN inclusion further refines style consistency and reduces domain mismatch.  
 
-**Add the following images from `/results/` folder here for strong impact:**  
-- `results/sample_before_after.png` — Comparison of input and harmonized outputs side-by-side  
-- `results/metrics_plot.png` — Graphical display of PSNR and SSIM improvements  
-- `assets/architecture.png` — Diagram detailing model architecture  
-- `assets/flowchart.png` — Flowchart of data preprocessing, training, and inference workflow  
+ ## 🖼️ Image Comparison Gallery  
 
-*Note:* Including thumbnails in README enhances engagement and helps users immediately grasp model effectiveness.  
+| Method         | Output Image |
+|----------------|--------------|
+| **1. Fine-tuning** | ![Fine-tuning Output](assets/FineTuning.png) |
+| **2. CycleGAN**    | ![CycleGAN Output](assets/CycleGAN.png) |
+| **3. Super Resolution** | ![Super Resolution Output](assets/super_res.png) |
+
+ [<img src="assets/Overall_result.png" width="400"/>](assets/Overall_result.png)
+ 
+[<img src="assets/confusion_cmatrix.png" width="400"/>](assets/confusion_matrix.png)
+
+
+ 📑 For more detailed visualizations and results, check the [📄 View Full Results PDF](assets/results_full.pdf)
+
 
 ---
 
@@ -118,7 +131,6 @@ Help improve reproducibility, expand functionality, and enhance harmonization me
 ## 👤 Authors & Maintainers  
 
 - **Nanda Kishore** ([GitHub Profile](https://github.com/nanda-81)) — Lead developer & maintainer  
-- Research collaborators and mentors (please update names here)  
 
 Contact: [nellutlanandakishore@gmail.com] *(add your preferred contact method)*  
 
@@ -146,32 +158,3 @@ If CALAMITI helps your research or project, please:
 - Cite our publication: Gong et al., NeuroImage, 2021  
 
 ---
-
-# Final Notes  
-
-This README:  
-- Opens with a **clear elevator pitch** highlighting project impact and innovation.  
-- Provides **concise, modular sections** focusing on user needs—overview, quick setup, results, and contribution.  
-- Encourages **engagement via visuals** placed inline with relevant descriptions.  
-- Balances **technical precision with accessibility** for both technical users and recruiters.  
-- Includes **contact info** and future directions to emphasize professionalism and ongoing commitment.  
-
----
-
-If you want, I can prepare a complete **Markdown file with embedded image links** ready for direct GitHub upload. Just provide your image filenames or I can create placeholders for you.  
-
-This README is crafted to impress recruiters, collaborators, and users alike, increasing your project's visibility and credibility.  
-
----
-
-*Feel free to ask for:*  
-- A shortened version for LinkedIn or resume links  
-- Visual markdown embedding guidance  
-- Custom badges and dynamic status sections  
-
----
-
-
-
-
-
