@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.env/
+
+# Large data / models (keep out of git)
+data/
+datasets/
+*.nii
+*.nii.gz
+*.h5
+*.pth
+*.pt
+
+# Results
+results/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
