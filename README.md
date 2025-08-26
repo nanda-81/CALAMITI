@@ -1,6 +1,10 @@
 # 🧠 CALAMITI  
 _Image Harmonization Using Deep Learning Models_
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nanda-81/CALAMITI/blob/main/CALAMITI_NNK_clean.ipynb)  
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)  
+![License](https://img.shields.io/badge/license-MIT-green)  
+![Issues](https://img.shields.io/github/issues/nanda-81/CALAMITI)  
+![Stars](https://img.shields.io/github/stars/nanda-81/CALAMITI?style=social)  
 ---
 
 ## 📌 Overview  
