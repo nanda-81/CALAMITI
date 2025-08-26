@@ -10,7 +10,7 @@ _Image Harmonization Using Deep Learning Models_
 ---
 
 ## 📌 Overview  
-CALAMITI (Cross-modality Advanced Learning Approach for Medical Image Translation and Integration) addresses major challenges in neuroimaging by harmonizing heterogeneous MRI data across different scanners and protocols.  
+CALAMITI (Contrast Anatomy Learning and Analysis for MR Intensity Translation and Integration) addresses major challenges in neuroimaging by harmonizing heterogeneous MRI data across different scanners and protocols.  
 
 By leveraging fusion networks, autoencoders, and adversarial style transfer (CycleGAN), this framework enhances image quality and structural consistency, enabling reliable downstream clinical and AI analyses.  
 
@@ -77,7 +77,7 @@ CALAMITI consistently delivers improved MRI harmonization quality:
 | SSIM (Structural Similarity Index) ↑ | 0.74       | 0.89        |  
 
   - Visual results:
-  [<img src="assets/Overall_result.png" width="400"/>](assets/Overall_result.png)
+    [<img src="assets/Overall_result.png" width="400"/>](assets/Overall_result.png)
   - Input slices vs. fused harmonized images show sharper anatomical details and reduced scanner artifacts.
     [<img src="assets/vs.png" width="400"/>](assets/vs.png)
   - CycleGAN inclusion further refines style consistency and reduces domain mismatch.  
@@ -97,7 +97,7 @@ CALAMITI consistently delivers improved MRI harmonization quality:
 ---
 
 ## 📚 References  
-- Gong et al., "CALAMITI: Cross-Modality Learning for MRI Harmonization," NeuroImage, 2021  
+- "CALAMITI- Unsupervised MR harmonization by learning disentangled representations using information bottleneck theory," NeuroImage, 2021  [Paper Link](https://www.sciencedirect.com/science/article/pii/S1053811921008429?via%3Dihub)
 - Relevant papers in MRI harmonization and deep learning methodologies  
 
 ---
@@ -151,6 +151,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for full 
 
 If CALAMITI helps your research or project, please:  
 - Star the repo ⭐ to support development  
-- Cite our publication: Gong et al., NeuroImage, 2021  
+- Cite our publication: NeuroImage, 2021  
 
 ---
