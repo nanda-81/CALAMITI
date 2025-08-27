@@ -131,7 +131,7 @@ Help improve reproducibility, expand functionality, and enhance harmonization me
 
 - **Nanda Kishore** ([GitHub Profile](https://github.com/nanda-81)) — Lead developer & maintainer  
 
-Contact: [nellutlanandakishore@gmail.com] *(add your preferred contact method)*  
+Contact: [nellutlanandakishore@gmail.com]
 
 ---
 
